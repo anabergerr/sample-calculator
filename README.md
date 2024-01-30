@@ -5,7 +5,6 @@ Este é um pequeno projeto em Python que calcula o tamanho da amostra necessári
 ## Como Usar
 
 Execute o script Python:
-
-    ```bash
-    python script.py
-    ```
+```bash
+python script.py
+```
